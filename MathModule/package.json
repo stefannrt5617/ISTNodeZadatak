@@ -1,0 +1,22 @@
+{
+  "name": "nrt5617.zadatak1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefannrt5617/ISTNodeZadatak.git"
+  },
+  "author": "Stefan Pesic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefannrt5617/ISTNodeZadatak/issues"
+  },
+  "homepage": "https://github.com/stefannrt5617/ISTNodeZadatak#readme",
+  "dependencies": {
+    "mathjs": "^6.6.2"
+  }
+}
