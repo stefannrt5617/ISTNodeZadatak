@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/stefannrt5617/ISTNodeZadatak#readme",
   "dependencies": {
-    "mathjs": "^6.6.2"
+    "mathjs": "^7.5.1"
   }
 }
